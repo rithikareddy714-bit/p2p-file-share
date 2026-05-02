@@ -43,7 +43,7 @@ Perfect for final year projects, demos, and privacy-focused file sharing! 🎓
 
 1️⃣ **Clone the repository:**
 ```bash
-git clone https://github.com/pragnesh-singh-rajput/Sharenrypt-p2p-file-sharing.git
+git clone https://github.com/rithikareddy714-bit/p2p-file-share/Sharenrypt-p2p-file-sharing.git
 cd Sharenrypt-p2p-file-sharing
 ```
 
@@ -223,7 +223,7 @@ This ensures that any network deployment of this software must also make the sou
 ## 👥 Authors
 
 ### Pragnesh Singh  
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/pragnesh-singh-rajput)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/rithikareddy714-bit/p2p-file-share)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/pragnesh-singh-rajput) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/i.shivv._)
 

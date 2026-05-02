@@ -11,7 +11,7 @@
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/pragnesh-singh-rajput/Sharenrypt-p2p-file-sharing.git
+git clone https://github.com/rithikareddy714-bit/p2p-file-share/Sharenrypt-p2p-file-sharing.git
 cd Sharenrypt-p2p-file-sharing
 
 # 2. Install dependencies
@@ -349,8 +349,8 @@ VITE_CHUNK_SIZE=8192  # 8KB
 ## Need Help?
 
 - 📖 Read the [README](./README.md)
-- 🐛 Report issues on [GitHub](https://github.com/pragnesh-singh-rajput/Sharenrypt-p2p-file-sharing/issues)
-- 💬 Ask questions in [Discussions](https://github.com/pragnesh-singh-rajput/Sharenrypt-p2p-file-sharing/discussions)
+- 🐛 Report issues on [GitHub](https://github.com/rithikareddy714-bit/p2p-file-share/Sharenrypt-p2p-file-sharing/issues)
+- 💬 Ask questions in [Discussions](https://github.com/rithikareddy714-bit/p2p-file-share/Sharenrypt-p2p-file-sharing/discussions)
 
 ---
 

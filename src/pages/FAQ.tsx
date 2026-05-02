@@ -141,7 +141,7 @@ export function FAQ() {
                     Sharencrypt is open source! Check out our GitHub repository or reach out to the community.
                 </p>
                 <a
-                    href="https://github.com/pragnesh-singh-rajput"
+                    href="https://github.com/rithikareddy714-bit/p2p-file-share"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground rounded-lg font-medium hover:bg-primary/90 transition-colors"

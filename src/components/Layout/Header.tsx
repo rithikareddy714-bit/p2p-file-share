@@ -35,7 +35,7 @@ export function Header() {
                     {/* Desktop Actions */}
                     <div className="hidden md:flex items-center gap-4">
                         <a
-                            href="https://github.com/pragnesh-singh-rajput"
+                            href="https://github.com/rithikareddy714-bit/p2p-file-share"
                             target="_blank"
                             rel="noreferrer"
                             className="text-muted-foreground hover:text-foreground transition-colors p-2"
@@ -95,7 +95,7 @@ export function Header() {
                             </NavLink>
                             <div className="pt-4 mt-2 border-t border-border">
                                 <a
-                                    href="https://github.com/pragnesh-singh-rajput"
+                                    href="https://github.com/rithikareddy714-bit/p2p-file-share"
                                     target="_blank"
                                     rel="noreferrer"
                                     className="flex items-center gap-2 px-2 py-3 text-muted-foreground hover:text-foreground"
