@@ -1,18 +1,18 @@
 # Sharencrypt - Secure P2P File Sharing
 
-A secure, peer-to-peer file sharing web app built with WebRTC. Files are transferred directly between browsers — no server, no storage, no tracking.
+A secure, peer-to-peer file sharing web app built with WebRTC. Files are transferred directly between browsers :  no server, no storage, no tracking.
 
 ---
 
 ## Features
 
-- **End-to-End Encrypted** - AES-GCM 256-bit encryption on every transfer
+- **End-to-End Encrypted** : AES-GCM 256-bit encryption on every transfer
 - **True P2P** - Direct browser-to-browser connection via WebRTC
-- **No File Size Limits** - Share large files without restrictions
-- **Folder Support** - Folders are auto-zipped before transfer using Web Workers
-- **QR Code Pairing** - Scan to connect instantly on mobile
-- **Clipboard Paste** - Ctrl+V to send screenshots directly
-- **Responsive UI** - Built with React 18, Tailwind CSS, and Framer Motion
+- **No File Size Limits** : Share large files without restrictions
+- **Folder Support** : Folders are auto-zipped before transfer using Web Workers
+- **QR Code Pairing** : Scan to connect instantly on mobile
+- **Clipboard Paste** : Ctrl+V to send screenshots directly
+- **Responsive UI** : Built with React 18, Tailwind CSS, and Framer Motion
 
 ---
 
@@ -55,7 +55,7 @@ Open `http://localhost:5173` in your browser.
 1. User A opens the app and gets a unique Peer ID
 2. User B connects using that ID (or scans the QR code)
 3. A direct WebRTC connection is established
-4. Files are encrypted and transferred directly — no server involved
+4. Files are encrypted and transferred directly , no server involved
 
 ---
 
